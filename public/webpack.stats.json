@@ -1,0 +1,203 @@
+{
+  "errors": [],
+  "warnings": [],
+  "namedChunkGroups": {
+    "polyfill": {
+      "chunks": [4, 15],
+      "assets": [
+        "webpack-runtime-e7a14728d920de34e5bc.js",
+        "webpack-runtime-e7a14728d920de34e5bc.js.map",
+        "polyfill-4dc72534576fb0eb62b5.js",
+        "polyfill-4dc72534576fb0eb62b5.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "app": {
+      "chunks": [4, 16, 14, 5],
+      "assets": [
+        "webpack-runtime-e7a14728d920de34e5bc.js",
+        "webpack-runtime-e7a14728d920de34e5bc.js.map",
+        "styles.01877a06b072953c14c7.css",
+        "styles-1043fb1b9b9e69356781.js",
+        "styles-1043fb1b9b9e69356781.js.map",
+        "framework-acd7498685eeb36e39da.js",
+        "framework-acd7498685eeb36e39da.js.map",
+        "app-103a034f0799e1448098.js",
+        "app-103a034f0799e1448098.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "component---cache-caches-gatsby-plugin-offline-app-shell-js": {
+      "chunks": [6],
+      "assets": [
+        "component---cache-caches-gatsby-plugin-offline-app-shell-js-d3ee03be2ef85643f368.js",
+        "component---cache-caches-gatsby-plugin-offline-app-shell-js-d3ee03be2ef85643f368.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "component---src-page-template-blog-post-item-template-tsx": {
+      "chunks": [2, 1, 0, 3, 7],
+      "assets": [
+        "cb1608f2-19b5df309484518b94fe.js",
+        "cb1608f2-19b5df309484518b94fe.js.map",
+        "a9a7754c-6e5e57374e6ba6227a53.js",
+        "a9a7754c-6e5e57374e6ba6227a53.js.map",
+        "41da4e8d84deca061cb33e079e2580f6b256fd4f-1a311d67c03d0750a20f.js",
+        "41da4e8d84deca061cb33e079e2580f6b256fd4f-1a311d67c03d0750a20f.js.map",
+        "652232b3a713ea4e5511641430f7acfcd0c87aba-a2c956581d93206d611e.js",
+        "652232b3a713ea4e5511641430f7acfcd0c87aba-a2c956581d93206d611e.js.map",
+        "component---src-page-template-blog-post-item-template-tsx-a93c362ec8cff9261060.js",
+        "component---src-page-template-blog-post-item-template-tsx-a93c362ec8cff9261060.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "component---src-page-template-blog-post-list-template-tsx": {
+      "chunks": [2, 1, 0, 3, 8],
+      "assets": [
+        "cb1608f2-19b5df309484518b94fe.js",
+        "cb1608f2-19b5df309484518b94fe.js.map",
+        "a9a7754c-6e5e57374e6ba6227a53.js",
+        "a9a7754c-6e5e57374e6ba6227a53.js.map",
+        "41da4e8d84deca061cb33e079e2580f6b256fd4f-1a311d67c03d0750a20f.js",
+        "41da4e8d84deca061cb33e079e2580f6b256fd4f-1a311d67c03d0750a20f.js.map",
+        "652232b3a713ea4e5511641430f7acfcd0c87aba-a2c956581d93206d611e.js",
+        "652232b3a713ea4e5511641430f7acfcd0c87aba-a2c956581d93206d611e.js.map",
+        "component---src-page-template-blog-post-list-template-tsx-b4baf54e729abb5ed747.js",
+        "component---src-page-template-blog-post-list-template-tsx-b4baf54e729abb5ed747.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "component---src-page-template-portfolio-detail-template-tsx": {
+      "chunks": [2, 1, 0, 9],
+      "assets": [
+        "cb1608f2-19b5df309484518b94fe.js",
+        "cb1608f2-19b5df309484518b94fe.js.map",
+        "a9a7754c-6e5e57374e6ba6227a53.js",
+        "a9a7754c-6e5e57374e6ba6227a53.js.map",
+        "41da4e8d84deca061cb33e079e2580f6b256fd4f-1a311d67c03d0750a20f.js",
+        "41da4e8d84deca061cb33e079e2580f6b256fd4f-1a311d67c03d0750a20f.js.map",
+        "component---src-page-template-portfolio-detail-template-tsx-2e8c3a88496794942973.js",
+        "component---src-page-template-portfolio-detail-template-tsx-2e8c3a88496794942973.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "component---src-pages-404-tsx": {
+      "chunks": [10],
+      "assets": [
+        "component---src-pages-404-tsx-583775248e5b9ec0e57f.js",
+        "component---src-pages-404-tsx-583775248e5b9ec0e57f.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "component---src-pages-about-tsx": {
+      "chunks": [2, 1, 0, 3, 11],
+      "assets": [
+        "cb1608f2-19b5df309484518b94fe.js",
+        "cb1608f2-19b5df309484518b94fe.js.map",
+        "a9a7754c-6e5e57374e6ba6227a53.js",
+        "a9a7754c-6e5e57374e6ba6227a53.js.map",
+        "41da4e8d84deca061cb33e079e2580f6b256fd4f-1a311d67c03d0750a20f.js",
+        "41da4e8d84deca061cb33e079e2580f6b256fd4f-1a311d67c03d0750a20f.js.map",
+        "652232b3a713ea4e5511641430f7acfcd0c87aba-a2c956581d93206d611e.js",
+        "652232b3a713ea4e5511641430f7acfcd0c87aba-a2c956581d93206d611e.js.map",
+        "component---src-pages-about-tsx-deffa8181d0df05ae477.js",
+        "component---src-pages-about-tsx-deffa8181d0df05ae477.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "component---src-pages-index-tsx": {
+      "chunks": [2, 1, 0, 12],
+      "assets": [
+        "cb1608f2-19b5df309484518b94fe.js",
+        "cb1608f2-19b5df309484518b94fe.js.map",
+        "a9a7754c-6e5e57374e6ba6227a53.js",
+        "a9a7754c-6e5e57374e6ba6227a53.js.map",
+        "41da4e8d84deca061cb33e079e2580f6b256fd4f-1a311d67c03d0750a20f.js",
+        "41da4e8d84deca061cb33e079e2580f6b256fd4f-1a311d67c03d0750a20f.js.map",
+        "component---src-pages-index-tsx-050e094bb38b0ffe201c.js",
+        "component---src-pages-index-tsx-050e094bb38b0ffe201c.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "component---src-pages-portfolio-tsx": {
+      "chunks": [2, 1, 0, 3, 13],
+      "assets": [
+        "cb1608f2-19b5df309484518b94fe.js",
+        "cb1608f2-19b5df309484518b94fe.js.map",
+        "a9a7754c-6e5e57374e6ba6227a53.js",
+        "a9a7754c-6e5e57374e6ba6227a53.js.map",
+        "41da4e8d84deca061cb33e079e2580f6b256fd4f-1a311d67c03d0750a20f.js",
+        "41da4e8d84deca061cb33e079e2580f6b256fd4f-1a311d67c03d0750a20f.js.map",
+        "652232b3a713ea4e5511641430f7acfcd0c87aba-a2c956581d93206d611e.js",
+        "652232b3a713ea4e5511641430f7acfcd0c87aba-a2c956581d93206d611e.js.map",
+        "component---src-pages-portfolio-tsx-35c1575b54becce74a39.js",
+        "component---src-pages-portfolio-tsx-35c1575b54becce74a39.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "assetsByChunkName": {
+    "polyfill": ["webpack-runtime-e7a14728d920de34e5bc.js", "polyfill-4dc72534576fb0eb62b5.js"],
+    "app": [
+      "webpack-runtime-e7a14728d920de34e5bc.js",
+      "styles.01877a06b072953c14c7.css",
+      "styles-1043fb1b9b9e69356781.js",
+      "framework-acd7498685eeb36e39da.js",
+      "app-103a034f0799e1448098.js"
+    ],
+    "component---cache-caches-gatsby-plugin-offline-app-shell-js": [
+      "component---cache-caches-gatsby-plugin-offline-app-shell-js-d3ee03be2ef85643f368.js"
+    ],
+    "component---src-page-template-blog-post-item-template-tsx": [
+      "cb1608f2-19b5df309484518b94fe.js",
+      "a9a7754c-6e5e57374e6ba6227a53.js",
+      "41da4e8d84deca061cb33e079e2580f6b256fd4f-1a311d67c03d0750a20f.js",
+      "652232b3a713ea4e5511641430f7acfcd0c87aba-a2c956581d93206d611e.js",
+      "component---src-page-template-blog-post-item-template-tsx-a93c362ec8cff9261060.js"
+    ],
+    "component---src-page-template-blog-post-list-template-tsx": [
+      "cb1608f2-19b5df309484518b94fe.js",
+      "a9a7754c-6e5e57374e6ba6227a53.js",
+      "41da4e8d84deca061cb33e079e2580f6b256fd4f-1a311d67c03d0750a20f.js",
+      "652232b3a713ea4e5511641430f7acfcd0c87aba-a2c956581d93206d611e.js",
+      "component---src-page-template-blog-post-list-template-tsx-b4baf54e729abb5ed747.js"
+    ],
+    "component---src-page-template-portfolio-detail-template-tsx": [
+      "cb1608f2-19b5df309484518b94fe.js",
+      "a9a7754c-6e5e57374e6ba6227a53.js",
+      "41da4e8d84deca061cb33e079e2580f6b256fd4f-1a311d67c03d0750a20f.js",
+      "component---src-page-template-portfolio-detail-template-tsx-2e8c3a88496794942973.js"
+    ],
+    "component---src-pages-404-tsx": ["component---src-pages-404-tsx-583775248e5b9ec0e57f.js"],
+    "component---src-pages-about-tsx": [
+      "cb1608f2-19b5df309484518b94fe.js",
+      "a9a7754c-6e5e57374e6ba6227a53.js",
+      "41da4e8d84deca061cb33e079e2580f6b256fd4f-1a311d67c03d0750a20f.js",
+      "652232b3a713ea4e5511641430f7acfcd0c87aba-a2c956581d93206d611e.js",
+      "component---src-pages-about-tsx-deffa8181d0df05ae477.js"
+    ],
+    "component---src-pages-index-tsx": [
+      "cb1608f2-19b5df309484518b94fe.js",
+      "a9a7754c-6e5e57374e6ba6227a53.js",
+      "41da4e8d84deca061cb33e079e2580f6b256fd4f-1a311d67c03d0750a20f.js",
+      "component---src-pages-index-tsx-050e094bb38b0ffe201c.js"
+    ],
+    "component---src-pages-portfolio-tsx": [
+      "cb1608f2-19b5df309484518b94fe.js",
+      "a9a7754c-6e5e57374e6ba6227a53.js",
+      "41da4e8d84deca061cb33e079e2580f6b256fd4f-1a311d67c03d0750a20f.js",
+      "652232b3a713ea4e5511641430f7acfcd0c87aba-a2c956581d93206d611e.js",
+      "component---src-pages-portfolio-tsx-35c1575b54becce74a39.js"
+    ]
+  }
+}

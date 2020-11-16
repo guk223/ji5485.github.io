@@ -7,7 +7,6 @@ yarn-error.log
 .gitpod.yml
 
 # Build directory
-/public/
 /coverage/
 
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,react

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "allImageSharp": {
+      "edges": [
+        {
+          "node": {
+            "original": { "src": "/static/about_profile_1-1e8c3a8dd442e241f412bc766cf46756.jpeg" }
+          }
+        },
+        {
+          "node": {
+            "original": { "src": "/static/about_profile_2-5233efc6d813734f9923a5be35bb4b14.jpg" }
+          }
+        },
+        {
+          "node": {
+            "original": { "src": "/static/about_profile_3-3e2e5a6ec1fb1bdee791af9014e51f07.jpg" }
+          }
+        }
+      ]
+    }
+  }
+}
