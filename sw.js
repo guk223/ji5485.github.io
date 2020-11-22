@@ -27,7 +27,7 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-0b2ed8c8ee573d4a8e2a.js"
+    "url": "webpack-runtime-28da0dbf7c6c3dc50496.js"
   },
   {
     "url": "styles.01877a06b072953c14c7.css"
@@ -36,35 +36,35 @@ self.__precacheManifest = [
     "url": "styles-1043fb1b9b9e69356781.js"
   },
   {
-    "url": "framework-acd7498685eeb36e39da.js"
+    "url": "framework-7bbb7991de2c9dccc6ce.js"
   },
   {
-    "url": "app-103a034f0799e1448098.js"
+    "url": "app-65110e6220b9a627164b.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "d5d8fbbce574948792b5c4ac65b10858"
+    "revision": "7909076fd6691bb0abf4db3fc1b2de9a"
   },
   {
-    "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-d3ee03be2ef85643f368.js"
+    "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-241020a1cf7d0f317bbe.js"
   },
   {
     "url": "polyfill-4dc72534576fb0eb62b5.js"
   },
   {
-    "url": "cb1608f2-19b5df309484518b94fe.js"
+    "url": "cb1608f2-7b6b0fbacc5742050a74.js"
   },
   {
-    "url": "a9a7754c-6e5e57374e6ba6227a53.js"
+    "url": "a9a7754c-d40a53ee0afb0b418a57.js"
   },
   {
-    "url": "41da4e8d84deca061cb33e079e2580f6b256fd4f-ebb05bf131fd50eb8e6b.js"
+    "url": "41da4e8d84deca061cb33e079e2580f6b256fd4f-fdcb9dd9006ca26da369.js"
   },
   {
-    "url": "652232b3a713ea4e5511641430f7acfcd0c87aba-967a55afcac456cb298f.js"
+    "url": "652232b3a713ea4e5511641430f7acfcd0c87aba-120dc270d1ed3efebc05.js"
   },
   {
-    "url": "component---src-pages-about-tsx-3080939cbc4c23c56c5c.js"
+    "url": "component---src-pages-about-tsx-5d92548e208dfe3fd6cb.js"
   },
   {
     "url": "page-data/about/page-data.json",
@@ -72,10 +72,10 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "6675d44e1a59a69ca9a5e185ae2c3ab5"
+    "revision": "9a700f4e3235ce00ea2a0b08ee76eaaf"
   },
   {
-    "url": "component---src-pages-portfolio-tsx-35c1575b54becce74a39.js"
+    "url": "component---src-pages-portfolio-tsx-f207f5d7c579de1126bb.js"
   },
   {
     "url": "page-data/portfolio/page-data.json",
@@ -171,7 +171,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/app-103a034f0799e1448098.js`))) {
+  if (!resources || !(await caches.match(`/app-65110e6220b9a627164b.js`))) {
     return await fetch(event.request)
   }
 
