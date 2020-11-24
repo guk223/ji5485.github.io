@@ -4,6 +4,16 @@
 <url> <loc>https://ji5485.github.io/blog/web/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ji5485.github.io/blog/architecture/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ji5485.github.io/blog/backend/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ji5485.github.io/blog/security/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ji5485.github.io/blog/frontend/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ji5485.github.io/blog/mobile/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ji5485.github.io/blog/testing/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ji5485.github.io/blog/open-source/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ji5485.github.io/blog/optimization/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ji5485.github.io/blog/2020-08-16/comprehension-about-rendering-process-of-react-application-and-optimization/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ji5485.github.io/blog/2020-08-08/ioc-container-in-spring/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ji5485.github.io/blog/2020-08-05/how-to-do-test-driven-development/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ji5485.github.io/blog/2020-08-02/what-is-xss-and-csrf/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ji5485.github.io/blog/2020-07-29/transition-to-micro-service-architecture/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ji5485.github.io/portfolio/project/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ji5485.github.io/portfolio/project/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
