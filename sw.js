@@ -27,29 +27,29 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-a527ce860f457a65dbc6.js"
+    "url": "webpack-runtime-f8287490dec0022b01d6.js"
   },
   {
     "url": "styles.178fd91dab2e3c0891df.css"
   },
   {
-    "url": "styles-84a9bc99193fe5828ffe.js"
+    "url": "styles-f2c1808a00cfb3adf39e.js"
   },
   {
-    "url": "framework-fc1db31f678bd7aa66d8.js"
+    "url": "framework-55f7b2ba736e89fdc740.js"
   },
   {
-    "url": "app-b37dd9331f499c9ebe30.js"
+    "url": "app-c5cb28951e0c0ed3fb6a.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "b00495c83bad6d91bf039cf4e564f951"
+    "revision": "0bf935c4650bc460c165ff20b56b5931"
   },
   {
-    "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-fd4fb51a6fac1c18bdde.js"
+    "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-a95b272f8c25b9a8a758.js"
   },
   {
-    "url": "polyfill-6b26ee8f1088ab7e6b17.js"
+    "url": "polyfill-8c9cdc0d74d5e14f599b.js"
   },
   {
     "url": "cb1608f2-5dddeba2950a716ec7b8.js"
@@ -58,27 +58,34 @@ self.__precacheManifest = [
     "url": "a9a7754c-082be2602a417998a132.js"
   },
   {
-    "url": "b0d73d0bfa1e29aba93caf471b38f73cc4be4739-2b4e93cb9a9aeb4404fc.js"
+    "url": "b0d73d0bfa1e29aba93caf471b38f73cc4be4739-2c2307a5adf9ed71fbaf.js"
   },
   {
     "url": "41da4e8d84deca061cb33e079e2580f6b256fd4f-b37768a9e2e10ef25d44.js"
   },
   {
-    "url": "652232b3a713ea4e5511641430f7acfcd0c87aba-86c9aece11110a61d8d4.js"
+    "url": "652232b3a713ea4e5511641430f7acfcd0c87aba-ee415070738b781eaf5d.js"
   },
   {
-    "url": "component---src-pages-about-tsx-c4d4c262e4f83edadd21.js"
+    "url": "73b546df8c86257b7ff4e175cb58ce8570f7e9bd-9b6aa9403fa93e1f3b90.js"
+  },
+  {
+    "url": "component---src-pages-about-tsx-b4b8babc108cb046a257.js"
   },
   {
     "url": "page-data/about/page-data.json",
-    "revision": "bcea690ce3f71d390a08ba9805c167bb"
+    "revision": "a1a3f294c63a52e2fc0396841f4df68f"
+  },
+  {
+    "url": "page-data/sq/d/1597851504.json",
+    "revision": "77850ba5e0d07e87ac2e21d28f77757d"
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "9158feab1533b4c09f6c2e3622221e07"
+    "revision": "f04819e2a6d211f86e784c9a9aebd90f"
   },
   {
-    "url": "component---src-pages-portfolio-tsx-f7968d9c1fb5dcb50647.js"
+    "url": "component---src-pages-portfolio-tsx-d260cbaf60d5b37820b0.js"
   },
   {
     "url": "page-data/portfolio/page-data.json",
@@ -174,7 +181,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/app-b37dd9331f499c9ebe30.js`))) {
+  if (!resources || !(await caches.match(`/app-c5cb28951e0c0ed3fb6a.js`))) {
     return await fetch(event.request)
   }
 
