@@ -27,29 +27,29 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-239a24a139202e90ca8a.js"
+    "url": "webpack-runtime-52adf7e9db61ef28c3d4.js"
   },
   {
     "url": "styles.178fd91dab2e3c0891df.css"
   },
   {
-    "url": "styles-f2c1808a00cfb3adf39e.js"
+    "url": "styles-84a9bc99193fe5828ffe.js"
   },
   {
-    "url": "framework-55f7b2ba736e89fdc740.js"
+    "url": "framework-fc1db31f678bd7aa66d8.js"
   },
   {
-    "url": "app-52bd2f65080a3eef1683.js"
+    "url": "app-87801eadd462123325e4.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "88add1e2053b89ca48735043a9131f4d"
+    "revision": "8f4f6d96ebe232f495659563fa585127"
   },
   {
-    "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-a95b272f8c25b9a8a758.js"
+    "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-fd4fb51a6fac1c18bdde.js"
   },
   {
-    "url": "polyfill-8c9cdc0d74d5e14f599b.js"
+    "url": "polyfill-6b26ee8f1088ab7e6b17.js"
   },
   {
     "url": "cb1608f2-5dddeba2950a716ec7b8.js"
@@ -61,16 +61,13 @@ self.__precacheManifest = [
     "url": "b0d73d0bfa1e29aba93caf471b38f73cc4be4739-2c2307a5adf9ed71fbaf.js"
   },
   {
-    "url": "41da4e8d84deca061cb33e079e2580f6b256fd4f-f68b6bda50aa67d94291.js"
+    "url": "41da4e8d84deca061cb33e079e2580f6b256fd4f-73a3a5bf451f4ea61bb9.js"
   },
   {
-    "url": "82b2cb1827953b0a76ea2b2408e53bdf5b6d22ab-1ce5cec75c098196a8c7.js"
+    "url": "652232b3a713ea4e5511641430f7acfcd0c87aba-32b264bb7c96c7374628.js"
   },
   {
-    "url": "652232b3a713ea4e5511641430f7acfcd0c87aba-182fc14ee71dfd2f06be.js"
-  },
-  {
-    "url": "component---src-pages-about-tsx-8712135d120ded857229.js"
+    "url": "component---src-pages-about-tsx-80a0b0e021002d37f46f.js"
   },
   {
     "url": "page-data/about/page-data.json",
@@ -82,10 +79,10 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "505230a82caf43b8e4c754166a2ee50c"
+    "revision": "463c51d22b47994f598164686f315800"
   },
   {
-    "url": "component---src-pages-portfolio-tsx-46d68728a3d5b0c21905.js"
+    "url": "component---src-pages-portfolio-tsx-c391bb4db2a3870303f4.js"
   },
   {
     "url": "page-data/portfolio/page-data.json",
@@ -181,7 +178,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/app-52bd2f65080a3eef1683.js`))) {
+  if (!resources || !(await caches.match(`/app-87801eadd462123325e4.js`))) {
     return await fetch(event.request)
   }
 
