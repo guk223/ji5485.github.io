@@ -86,7 +86,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/portfolio/page-data.json",
-    "revision": "ac4a0be8e50f2d16bd4357df78ca7779"
+    "revision": "9bf34b9392b7968f60b9b4e8003b895f"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
